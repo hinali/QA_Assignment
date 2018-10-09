@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hinaliA2QA", "hinaliA2QA\hinaliA2QA.csproj", "{E3127DC7-40A9-481C-BB22-51F3DC839C1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2Tests", "Assignment2Tests\Assignment2Tests.csproj", "{61AB0044-BF53-4FC5-BCC3-D1BF20955C96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3127DC7-40A9-481C-BB22-51F3DC839C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3127DC7-40A9-481C-BB22-51F3DC839C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3127DC7-40A9-481C-BB22-51F3DC839C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3127DC7-40A9-481C-BB22-51F3DC839C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61AB0044-BF53-4FC5-BCC3-D1BF20955C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61AB0044-BF53-4FC5-BCC3-D1BF20955C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61AB0044-BF53-4FC5-BCC3-D1BF20955C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61AB0044-BF53-4FC5-BCC3-D1BF20955C96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {226FCF7B-42C2-403A-A707-8A51BB5E150E}
+	EndGlobalSection
+EndGlobal

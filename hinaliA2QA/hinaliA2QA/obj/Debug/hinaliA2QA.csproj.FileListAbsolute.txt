@@ -1,0 +1,9 @@
+c:\users\ayushi dave\source\repos\hinaliA2QA\hinaliA2QA\bin\Debug\hinaliA2QA.exe.config
+c:\users\ayushi dave\source\repos\hinaliA2QA\hinaliA2QA\bin\Debug\hinaliA2QA.exe
+c:\users\ayushi dave\source\repos\hinaliA2QA\hinaliA2QA\bin\Debug\hinaliA2QA.pdb
+c:\users\ayushi dave\source\repos\hinaliA2QA\hinaliA2QA\bin\Debug\nunit.framework.dll
+c:\users\ayushi dave\source\repos\hinaliA2QA\hinaliA2QA\bin\Debug\nunit.framework.xml
+c:\users\ayushi dave\source\repos\hinaliA2QA\hinaliA2QA\obj\Debug\hinaliA2QA.csproj.CoreCompileInputs.cache
+c:\users\ayushi dave\source\repos\hinaliA2QA\hinaliA2QA\obj\Debug\hinaliA2QA.csproj.CopyComplete
+c:\users\ayushi dave\source\repos\hinaliA2QA\hinaliA2QA\obj\Debug\hinaliA2QA.exe
+c:\users\ayushi dave\source\repos\hinaliA2QA\hinaliA2QA\obj\Debug\hinaliA2QA.pdb

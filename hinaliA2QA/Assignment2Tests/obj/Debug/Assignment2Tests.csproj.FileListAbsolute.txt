@@ -1,0 +1,12 @@
+c:\users\ayushi dave\source\repos\hinaliA2QA\Assignment2Tests\bin\Debug\Assignment2Tests.dll
+c:\users\ayushi dave\source\repos\hinaliA2QA\Assignment2Tests\bin\Debug\Assignment2Tests.pdb
+c:\users\ayushi dave\source\repos\hinaliA2QA\Assignment2Tests\bin\Debug\hinaliA2QA.exe
+c:\users\ayushi dave\source\repos\hinaliA2QA\Assignment2Tests\bin\Debug\nunit.framework.dll
+c:\users\ayushi dave\source\repos\hinaliA2QA\Assignment2Tests\bin\Debug\hinaliA2QA.pdb
+c:\users\ayushi dave\source\repos\hinaliA2QA\Assignment2Tests\bin\Debug\hinaliA2QA.exe.config
+c:\users\ayushi dave\source\repos\hinaliA2QA\Assignment2Tests\bin\Debug\nunit.framework.xml
+c:\users\ayushi dave\source\repos\hinaliA2QA\Assignment2Tests\obj\Debug\Assignment2Tests.csprojResolveAssemblyReference.cache
+c:\users\ayushi dave\source\repos\hinaliA2QA\Assignment2Tests\obj\Debug\Assignment2Tests.csproj.CoreCompileInputs.cache
+c:\users\ayushi dave\source\repos\hinaliA2QA\Assignment2Tests\obj\Debug\Assignment2Tests.csproj.CopyComplete
+c:\users\ayushi dave\source\repos\hinaliA2QA\Assignment2Tests\obj\Debug\Assignment2Tests.dll
+c:\users\ayushi dave\source\repos\hinaliA2QA\Assignment2Tests\obj\Debug\Assignment2Tests.pdb
